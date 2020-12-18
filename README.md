@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter , ReactNative**
 
-- 💬 Ask me about **Laravel , Vue , Ionic , NodeJS**
+- 💬 Ask me about **Laravel , Vue , Ionic , Firebase , NodeJS**
 
 - 📫 How to reach me **chiheb.design@gmail.com**
 
