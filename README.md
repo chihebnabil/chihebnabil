@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS , React**
 
-- 💬 Ask me about **Laravel , Vue , Ionic , Firebase**
+- 💬 Ask me about ** PHP , Laravel , Vue , Ionic , Firebase , OpenAPI**
 
 - 📫 How to reach me **chiheb.design@gmail.com**
 
