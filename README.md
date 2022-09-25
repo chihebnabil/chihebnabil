@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chihebnabil" alt="chihebnabil" /> </p>
 
-- 🌱   I’m currently learning **AWS | React | SSR | SEO**
+- 🌱   I’m currently learning **AWS**
 
 - 💬   Ask me about **PHP | Laravel | MySQL | Vue | Ionic | Firebase | OpenAPI Spec | Swagger**
 
