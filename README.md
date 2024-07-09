@@ -5,7 +5,7 @@
 
 - 🌱   I’m currently learning **AWS**
 
-- 💬   Ask me about **PHP | Laravel | MySQL | Vue | Ionic | Firebase | OpenAPI Spec | Swagger**
+- 💬   Ask me about **PHP | Laravel | MySQL | Vue | Nuxt | Ionic | Firebase | Open AI | OpenAPI Spec | Swagger**
 
 - 📫   Have a project or need a custom training ? let's discuss over a call  **[https://calendly.com/chiheb-nabil/30min](https://calendly.com/chiheb-nabil/free-consultation)**
 
