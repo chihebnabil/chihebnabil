@@ -6,4 +6,4 @@
 * 💬 Let's talk tech! Whether it's PHP | Laravel | MySQL | Vue | Nuxt | Ionic | Firebase | Open AI, or integrating OpenAPI/Swagger specs, I'm here to help.
 * 📫 Need expert advice on your next project or personalized training for your team? Book a free consultation with me, and let's turn your vision into reality: <a href="https://calendly.com/chiheb-nabil/free-consultation">Schedule a Call</a>
 
-<p align="center"><a href="https://twitter.com/nabilchiheb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nabilchiheb" height="30" width="30" /></a></p>
+<p align="center"><a href="https://twitter.com/nabilchiheb" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/white" alt="nabilchiheb" height="30" width="30" /></a></p>
