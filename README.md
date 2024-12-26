@@ -12,7 +12,7 @@ Here's a little bit about me:
 
 - 🔭 I’m currently working on **[Claude UI](https://claudeui.com)**.
 - 🌱 I’m currently learning **[Rust]**.
-- 💬 Ask me about **[Your Expertise/Interests]**.
+- 💬 Ask me about **[PHP/Node.js/Vue.js/GCP/LLMs]**.
 - 📫 How to reach me: **[X](https://x.com/NabilChiheb)**.
 
 ## 🛠️ Technologies & Tools
