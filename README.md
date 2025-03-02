@@ -20,6 +20,7 @@ Here's a little bit about me:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Angular](https://img.shields.io/badge/-angular-333333?style=flat&logo=angular)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
@@ -29,10 +30,6 @@ Here's a little bit about me:
 ## 📈 GitHub Stats
 
 [![Chiheb Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=chihebnabil&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=chihebnabil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with Me
 
