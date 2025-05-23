@@ -4,16 +4,26 @@
 
 Welcome to my GitHub profile! 
 
-I'm a passionate developer who loves exploring new technologies and working on exciting projects. 
+I’m a full-stack developer, indie maker, and mentor helping aspiring devs and founders ship meaningful software and learn faster.
 
-Here's a little bit about me:
+## What I'm Working On
+- 🧠 GitMatcher – AI-powered GitHub talent discovery. Find real devs by real commits.
+- 🧑‍🏫 MyDevMentor – 1:1 mentorship to help junior developers level up and land jobs.
+- ⚙️ next-lovable – CLI tool to convert Lovable React projects into full-stack Next.js apps. One command. Clean structure. Batteries included.
+- 🧪 Experimenting with LLMs and UI tools like Claude UI and openai-api-mock .
 
-## 🚀 About Me
+## 🎓 Mentorship Services
 
-- 🔭 I’m currently working on **[Claude UI](https://claudeui.com)**.
-- 🌱 I’m currently learning **[Rust]**.
-- 💬 Ask me about **[PHP/Node.js/Vue.js/GCP/LLMs]**.
-- 📫 How to reach me: **[X](https://x.com/NabilChiheb)**.
+Whether you're stuck in tutorial hell or need help shipping your first project — I got you.
+
+I help devs:
+- Improve their GitHub profiles
+- Build solid portfolios
+- Learn by doing (not just reading)
+- Navigate tech stacks like Laravel, Vue, Node, or Next
+
+👉 Book a free call
+Or just slide into my DMs on X ✌️
 
 ## 🛠️ Technologies & Tools
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
