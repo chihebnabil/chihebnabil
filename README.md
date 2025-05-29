@@ -7,9 +7,10 @@ Welcome to my GitHub profile!
 I’m a full-stack developer, indie maker, and mentor helping aspiring devs and founders ship meaningful software and learn faster.
 
 ## What I'm Working On
-- 🧠 [GitMatcher](https://gitmatcher.com) – AI-powered GitHub talent discovery. Find real devs by real commits.
-- 🎓 [MyDevMentor](https://mydevmentor.com) – 1:1 mentorship to help junior developers level up and land jobs.
-- ⚙️ [next-lovable](https://nextlovable.com) – CLI tool to convert Lovable React projects into full-stack Next.js apps. One command. Clean structure. Batteries included.
+- 🧠 [GitMatcher](https://gitmatcher.com)    – AI-powered GitHub talent discovery. Find real devs by real commits.
+- 🎓 [MyDevMentor](https://mydevmentor.com)  – 1:1 mentorship to help junior developers level up and land jobs.
+- 🎓 [MyDevMentor](https://mydevmentor.com)  – 1:1 mentorship to help junior developers level up and land jobs.
+- ⚙️ [The Art of Crafting AI Prompts](https://www.amazon.fr/Art-Crafting-Prompts-Empowering-Conversations/dp/B0CCCX8MQB) – Beginner-Friendly Prompt Engineering Guide
 - 🧪 Experimenting with LLMs and UI tools like [Claude UI](https://claudeui.com) and [openai-api-mock](https://www.npmjs.com/package/openai-api-mock) .
 
 ## 🎓 Mentorship Services
