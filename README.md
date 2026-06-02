@@ -4,8 +4,8 @@ Building tools that survive the hype cycle.
 
 ## Current Focus
 
-- **🧠 [Loopboard](https://github.com/chihebnabil/loopboard)** – Open-source kanban with MCP integration and embedding-based task recall. AI-native project memory.
-- **⚙️ [next-lovable](https://nextlovable.com)** – Escape Lovable cloud lock-in. Convert React projects to full-stack Next.js. One command, clean structure.
+- **🧠 [Loopboard](https://loopboard.dev)** – The memory layer vibe-coded projects don't ship with. MCP-native kanban with embedding-based task recall. AI remembers what your spaghetti code forgot.
+- **⚙️ [next-lovable](https://nextlovable.com)** – CLI to escape Lovable cloud lock-in. Convert React projects to full-stack Next.js. One command, clean structure.
 - **🎓 [MyDevMentor](https://mydevmentor.com)** – 1:1 mentorship for devs shipping real projects.
 - **📚 [The Art of Crafting AI Prompts](https://www.amazon.fr/Art-Crafting-Prompts-Empowering-Conversations/dp/B0CCCX8MQB)** – Prompt engineering guide.
 
@@ -28,9 +28,6 @@ I audit AI-generated codebases before they become expensive mistakes.
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 
-## Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=chihebnabil&show_icons=true&theme=radical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 
