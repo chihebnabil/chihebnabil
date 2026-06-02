@@ -1,51 +1,38 @@
-# Hi there, I'm Chiheb Nabil 👋
+# Nabil Chiheb
 
-![Profile Views](https://komarev.com/ghpvc/?username=chihebnabil&color=blue)
+Building tools that survive the hype cycle.
 
-Welcome to my GitHub profile! 
+## Current Focus
 
-I’m a full-stack developer, indie maker, and mentor helping aspiring devs and founders ship meaningful software and learn faster.
+- **🧠 [Loopboard](https://github.com/chihebnabil/loopboard)** – Open-source kanban with MCP integration and embedding-based task recall. AI-native project memory.
+- **⚙️ [next-lovable](https://nextlovable.com)** – Escape Lovable cloud lock-in. Convert React projects to full-stack Next.js. One command, clean structure.
+- **🎓 [MyDevMentor](https://mydevmentor.com)** – 1:1 mentorship for devs shipping real projects.
+- **📚 [The Art of Crafting AI Prompts](https://www.amazon.fr/Art-Crafting-Prompts-Empowering-Conversations/dp/B0CCCX8MQB)** – Prompt engineering guide.
 
-## What I'm Working On
-- 🧠 [GitMatcher](https://gitmatcher.com)    – AI-powered GitHub talent discovery. Find real devs by real commits.
-- 🎓 [MyDevMentor](https://mydevmentor.com)  – 1:1 mentorship to help junior developers level up and land jobs.
-- ⚙️ [next-lovable](https://nextlovable.com) – CLI tool to convert Lovable React projects into full-stack Next.js apps. One command. Clean structure. Batteries included.
-- 📚 [The Art of Crafting AI Prompts](https://www.amazon.fr/Art-Crafting-Prompts-Empowering-Conversations/dp/B0CCCX8MQB) – Beginner-Friendly Prompt Engineering Guide
-- 🧪 Experimenting with LLMs and UI tools like [Claude UI](https://claudeui.com) and [openai-api-mock](https://www.npmjs.com/package/openai-api-mock) .
+## What I Do
 
-## 🎓 Mentorship Services
+I audit AI-generated codebases before they become expensive mistakes.
 
-Whether you're stuck in tutorial hell or need help shipping your first project — I got you.
+- Vibe-coded apps that need architecture
+- Lovable → Next.js migrations
+- LLM integration that won't leak data
 
-I help devs:
-- Improve their GitHub profiles
-- Build solid portfolios
-- Learn by doing (not just reading)
-- Navigate tech stacks like Laravel, Vue, Node, or Next
+👉 [Book an audit](https://nextlovable.com) (paid, scoped, no free calls)
 
-👉 Book a free call
-Or just slide into my DMs on X ✌️
+## Stack
 
-## 🛠️ Technologies & Tools
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Angular](https://img.shields.io/badge/-angular-333333?style=flat&logo=angular)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
 
-## 📈 GitHub Stats
+## Stats
 
-[![Chiheb Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=chihebnabil&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=chihebnabil&show_icons=true&theme=radical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📫 Connect with Me
+## Contact
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/nabil-chiheb/)
-[![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://x.com/NabilChiheb)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chiheb.design@gmail.com)
-
-Feel free to reach out if you have any questions or just want to connect!
+[![X](https://img.shields.io/badge/-@NabilChiheb-000?style=flat&logo=x)](https://x.com/NabilChiheb)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/nabil-chiheb/)
