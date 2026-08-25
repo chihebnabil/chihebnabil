@@ -4,7 +4,7 @@ Building tools that survive the hype cycle.
 
 ## Current Focus
 
-- **🧠 [Loopboard](https://loopboard.dev)** – The memory layer vibe-coded projects don't ship with. MCP-native kanban with embedding-based task recall. AI remembers what your spaghetti code forgot.
+- **🐛 [FlareLog](https://flarelog.dev)** – Ships logs, errors, and W3C-propagated traces from Cloudflare Workers, Vercel, Node.js, or the browser.
 - **⚙️ [next-lovable](https://nextlovable.com)** – CLI to escape Lovable cloud lock-in. Convert React projects to full-stack Next.js. One command, clean structure.
 - **🎓 [MyDevMentor](https://mydevmentor.com)** – 1:1 mentorship for devs shipping real projects.
 - **📚 [The Art of Crafting AI Prompts](https://www.amazon.fr/Art-Crafting-Prompts-Empowering-Conversations/dp/B0CCCX8MQB)** – Prompt engineering guide.
